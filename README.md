@@ -1,9 +1,9 @@
-# ar-f5
+# AR-f5
 
 # Mostrar un objeto 3D con un marcador
 
-- Web https://jorgebenitezlopez.com/ar/f5/
-- Marcador https://jorgebenitezlopez.com/ar/f5/pattern-marker.png
+- index.html
+- pattern-marker.png
 
 # Referencias
 
